@@ -133,10 +133,12 @@ public class Programm {
                 String numero1 = element_1700074300065.getText();
                 String numero2 = element_1700074301707.getText();
                 String resultado = numero1 + numero2;
-                element_1700074314953.setText(resultado);
+                element_1700074314953.setText(resultado);.
+                System.out.println("Hola");
             }
             
         });
+
 
         frame.setVisible(true);
     }
