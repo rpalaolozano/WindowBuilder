@@ -134,7 +134,7 @@ public class Programm {
                 String numero2 = element_1700074301707.getText();
                 String resultado = numero1 + numero2;
                 element_1700074314953.setText(resultado);.
-                System.out.println("Hola");
+                System.out.println("Adios");
             }
             
         });
