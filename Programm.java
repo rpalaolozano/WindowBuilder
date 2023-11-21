@@ -135,6 +135,7 @@ public class Programm {
                 String resultado = numero1 + numero2;
                 element_1700074314953.setText(resultado);.
                 System.out.println("Adios");
+                System.out.println("Hola otra vez");
             }
             
         });
