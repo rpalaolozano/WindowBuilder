@@ -1,3 +1,3 @@
 #! /bin/bash
 
-javac TestClass.java
+javac Programm.java
